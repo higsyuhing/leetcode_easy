@@ -5,7 +5,8 @@
 2. basic data structure/algorithm is important
   especially the core idea inside of it
 
-
+3. the tricky idea for particular problem
+  this is so damn smart!!!
 
 
 
