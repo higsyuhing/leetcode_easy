@@ -1,0 +1,14 @@
+1. math is important: 
+  many problem can be solved by a smart mathematical approach
+  like the problem calculate "single" element with using XOR calculation
+
+2. basic data structure/algorithm is important
+  especially the core idea inside of it
+
+
+
+
+
+
+
+
