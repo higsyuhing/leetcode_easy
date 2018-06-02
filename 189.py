@@ -5,6 +5,9 @@ class Solution(object):
         :type k: int
         :rtype: void Do not return anything, modify nums in-place instead.
         """
+        # solution has a better idea
+        # originally I have the similar idea but not apply it
+        # which is jumping by k and using k steps? 
         array = []
         alen = len(nums)
         k = k%alen
