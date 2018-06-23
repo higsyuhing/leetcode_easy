@@ -31,3 +31,4 @@ class Solution(object):
                 return True
             pass
         return False
+    # KMP algo is a better sol
