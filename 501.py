@@ -15,6 +15,7 @@ class Solution(object):
         # I don't think it's good since it doesn't use BST
         # but tree [2, 1, null, null, 2] is possible to make it hard
         # it beats 97.24% ?!
+        # CSDN has the better middle-val-traverse mathod, which is better
         dic = {}
         temp = root
         stack = []
