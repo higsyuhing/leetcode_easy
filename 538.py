@@ -12,6 +12,7 @@ class Solution(object):
         :rtype: TreeNode
         """
         # traverse 2 times
+        # stupid, use right iterative will be good! 
         arr = []
         stack = []
         temp = root
