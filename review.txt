@@ -9,7 +9,9 @@
 3. the tricky idea for particular problem
   this is so damn smart!!!
 
+######
 
+4. python coding style //in standard solution, in "high level" usage
 
 
 
