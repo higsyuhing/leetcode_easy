@@ -55,3 +55,16 @@ class Solution(object):
                 pass
             pass
         return ret
+        '''
+        # this is the programming skills you need to learn! 
+        banset = set(banned)
+        count = collections.Counter(
+            word.strip("!?',;.") for word in paragraph.lower().split())
+
+        ans, best = '', 0
+        for word in count:
+            if count[word] > best and word not in banset:
+                ans, best = word, count[word]
+
+        return ans
+        '''
