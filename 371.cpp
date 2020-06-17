@@ -11,3 +11,13 @@ public:
         return a;
     }
 };
+
+/*
+class Solution {
+public:
+    int getSum(int a, int b) {
+        if(!a) return b;
+        return getSum(( (a&b) & 0xffffffff )<<1,a^b);
+    }
+};
+*/
